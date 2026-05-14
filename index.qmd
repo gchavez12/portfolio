@@ -6,7 +6,6 @@ author: Gabriella Chavez
 
 ## Course Lessons
 
-- [Introduction to Literate Analysis Using Quarto](assignments/intro-to-qmd.html)
-- [Cleaning and Wrangling Data](assignments/data-cleaning.html)
+- [Introduction to Literate Analysis Using Quarto](assignments/a01_quarto_literate_analysis.html)
 - [Geospatial Vector Analysis](assignments/ChavezG_intro-to-spatial-data.html)
-
+- [Decision Log](assignments/decision_log.html)
