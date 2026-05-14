@@ -1,12 +1,12 @@
 ---
-title: "Portfolio"
-listing:
-  contents: assignments
-  sort: "date asc"
-  fields: [title, date]
+title: "My Data Science Portfolio"
+format: html
+author: Gabriella Chavez
 ---
 
-Welcome!  
-This is my portfolio for learning **R, data analysis, GitHub, and Quarto**.
+## Course Lessons
 
-## Assignments
+- [Introduction to Literate Analysis Using Quarto](assignments/intro-to-qmd.html)
+- [Cleaning and Wrangling Data](assignments/data-cleaning.html)
+- [Geospatial Vector Analysis](assignments/ChavezG_intro-to-spatial-data.html)
+
